@@ -1,9 +1,9 @@
 ---
 title:
-Taller de GitHub
+- Taller de GitHub
 author:
-Emiliano
-CTavo
+- Emiliano
+- CTavo
 ---
 
 
